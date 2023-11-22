@@ -1,3 +1,6 @@
+# Link Deploy: [![Build status](https://build.appcenter.ms/v0.1/apps/124fafcc-6cbb-4ed8-9abf-489b869de879/branches/main/badge)](https://appcenter.ms)
+
+
 # shopping_list
 
 A new Flutter project.
