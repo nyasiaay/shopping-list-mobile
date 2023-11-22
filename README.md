@@ -1,4 +1,5 @@
 # Link Deploy: [![Build status](https://build.appcenter.ms/v0.1/apps/124fafcc-6cbb-4ed8-9abf-489b869de879/branches/main/badge)](https://appcenter.ms)
+# https://install.appcenter.ms/orgs/shopping-list-nyasia/apps/shopping-list/distribution_groups/public
 
 
 # shopping_list
